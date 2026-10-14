@@ -14,7 +14,9 @@ Computer Networks: TCP/IP stack fundamentals, routing, switching, and transport 
 Operating Systems: Process management, concurrency, synchronization, and memory architectures.
 Data Structures & Algorithms: Algorithmic optimization and efficient resource utilization.
 Discrete Mathematics & Logic: Combinatorics, graph theory, and predicate logic for deterministic system design.
+
 🔧 Technical Arsenal
+
 Languages: C, Python, Java, SQL (Applying C for systems-level logic and Python for data parsing/automation).
 Core Engineering: Linux Systems fundamentals, Algorithmic Logic, Network Protocol Theory.
 Domain Experience: Financial data parsing, options market analytics, and operational automation.
